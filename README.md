@@ -36,4 +36,5 @@ Lesson 3 Time Complexity
 - **TapeEquilibrium** 
 [Codility Assignment](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) /
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/TapeEquilibrium.java) /
-[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/TapeEquilibriumTest.java) 
+[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/TapeEquilibriumTest.java) /
+[Codility Report](https://app.codility.com/demo/results/trainingKQMPEP-Y5G/)
