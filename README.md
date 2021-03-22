@@ -22,12 +22,18 @@ Solutions and tests in Java for the lessons at https://codility.com/programmers/
 
 ## Lessons
 Lesson 2 Arrays
-- **OddOccurrencesInArray** [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/OddOccurencesInArray.java)
-/ [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/OddOccurencesInArrayTest.java)
-- **CyclicRotation** [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/CyclicRotation.java)
-/ [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/CyclicRotationTest.java)
-/ [CodilityReport](https://app.codility.com/demo/results/training3GP53Q-2PN/)
+- **OddOccurrencesInArray** 
+[Codility Assignment](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) / 
+[Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/OddOccurencesInArray.java) / 
+[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/OddOccurencesInArrayTest.java)
+- **CyclicRotation** 
+[Codility Assignment](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) / 
+[Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/CyclicRotation.java) / 
+[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/CyclicRotationTest.java) / 
+[Codility Report](https://app.codility.com/demo/results/training3GP53Q-2PN/)
 
 Lesson 3 Time Complexity
-- **TapeEquilibrium** [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/TapeEquilibrium.java) 
-/ [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/TapeEquilibriumTest.java) 
+- **TapeEquilibrium** 
+[Codility Assignment](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) /
+[Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/TapeEquilibrium.java) /
+[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/TapeEquilibriumTest.java) 
