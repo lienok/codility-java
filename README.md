@@ -5,7 +5,7 @@ Solutions and tests in Java for the lessons at https://codility.com/programmers/
 ## Test cases
 
 * my own test cases I used during the task implementation.  I did first all of my solution in Eclipse IDE 
-* After I alway passed to the codility platform to Submit and to verify.
+* after I was happy with the solution in Eclipse I passed it to the codility platform to Submit and to verify.
 
 ## Other notes
 
