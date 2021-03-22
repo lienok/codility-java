@@ -1,16 +1,12 @@
 package codilitysolutions.arrays;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Before;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class CyclicRotationTest {
 	private CyclicRotation cyclicRotation;
-	int randomArray[] = new int[] {};
-	int randomKTimes = 0;
-
 
 	@Before
 	public void setup() {
@@ -114,15 +110,4 @@ public class CyclicRotationTest {
 				, 795, 125, -8, -122, 773 }, result);
 	}
 	
-	@Ignore @Test 
-	public void shouldRotateArrayOfRandomArray() {
-
-		int[] result = cyclicRotation.solution(randomArray, randomKTimes);
-
-		assertEquals(result.length, randomArray.length);
-		assertArrayEquals(new int[] { 4 }, result);
-	}
-	
-	
-
 }

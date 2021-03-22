@@ -21,14 +21,13 @@ Solutions and tests in Java for the lessons at https://codility.com/programmers/
    * O(n*n) the solution has a loop through n nested inside a loop through n
 
 ## Lessons
-Lesson 1 Iterations
-- [BinaryGap](https://github.com/lienok/codility-java/blob/master/BinaryGap.java)
-
 Lesson 2 Arrays
-- [OddOccurrencesInArray](https://github.com/lienok/codility-java/blob/master/OddOccurrencesInArray.java)
-- [CyclicRotation](https://github.com/lienok/codility-java/blob/master/CyclicRotation.java)
+- **OddOccurrencesInArray** [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/OddOccurencesInArray.java)
+/ [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/OddOccurencesInArrayTest.java)
+- **CyclicRotation** [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/CyclicRotation.java)
+/ [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/CyclicRotationTest.java)
+/ [CodilityReport](https://app.codility.com/demo/results/training3GP53Q-2PN/)
 
 Lesson 3 Time Complexity
-- [FrogJmp](https://github.com/lienok/codility-java/blob/master/FrogJmp.java)
-- [PermMissingElem](https://github.com/lienok/codility-java/blob/master/PermMissingElem.java)
-- [TapeEquilibrium](https://github.com/lienok/codility-java/blob/master/TapeEquilibrium.java)
+- **TapeEquilibrium** [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/TapeEquilibrium.java) 
+/ [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/TapeEquilibriumTest.java) 
