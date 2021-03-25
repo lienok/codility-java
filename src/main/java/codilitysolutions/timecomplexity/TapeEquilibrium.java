@@ -27,4 +27,4 @@ class TapeEquilibrium {
 			return result;
 		}
 }
-https://app.codility.com/demo/results/trainingKQMPEP-Y5G/
+// https://app.codility.com/demo/results/trainingKQMPEP-Y5G/
