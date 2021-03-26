@@ -1,28 +1,31 @@
 package codilitysolutions.arrays;
 
+import java.util.*;
+
 class OddOccurencesInArray {
 	public int solution(int[] A) {
-//			[4, 2, 1, 1, 2]
-//		[1, 2, 4, 1, 2]
-		int uniqueNum = A[0];
-		Integer[] help = new Integer[1000000];
+		int uniqueNum = 0;
+		Map<Integer, Integer> nums = new HashMap<Integer, Integer>();
 
 		for (int n : A) {
-			if (help[n] == null) {
-				help[n] = 1;
+			if (nums.get(n) == null) {
+				nums.put(n, 1);
 			} else {
-				help[n] = 2;
-			}
+				int count = nums.get(n);
+				nums.put(n, ++count);				
+			}						
 		}
 		
-		for (int n = 0; n < help.length; n++) {
-			if (help[n] != null && help[n] == 1) {
+		for(Integer n : nums.keySet()) {
+			if (nums.get(n) % 2 != 0) {
 				uniqueNum = n;
 			}
 		}
+		
 
 		return uniqueNum;
 	}
 }
 //44% https://app.codility.com/demo/results/trainingNDCRVK-JAY/
 //55% https://app.codility.com/demo/results/trainingDTEK99-ADS/
+//100% https://app.codility.com/demo/results/trainingPK5FE9-328/

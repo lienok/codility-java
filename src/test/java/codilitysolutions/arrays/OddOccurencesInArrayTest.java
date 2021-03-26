@@ -23,6 +23,24 @@ public class OddOccurencesInArrayTest {
 	}
 	
 	@Test
+	public void shouldReturnTheUniqueValueWhenSevenItemsUniqueFirsrt() {
+		int[] inArray = new int[] { 7, 9, 3, 9, 3, 9, 9 };
+		
+		int result = oddOccurencesInArray.solution(inArray);
+
+		assertEquals(7, result);
+	}
+	
+	@Test
+	public void shouldReturnTheUniqueValueWhenSevenItemsNotUnique() {
+		int[] inArray = new int[] { 9, 3, 9, 3, 9, 9, 9 };
+		
+		int result = oddOccurencesInArray.solution(inArray);
+
+		assertEquals(9, result);
+	}
+	
+	@Test
 	public void shouldReturnTheUniqueValueWhen185Items() {
 		int[] inArray = new int[] { 
 				480, 3196, 3260, 329, 9125, 928, 6286, 1801, 643, 9936, 1945, 3729, 8592, 6313, 5540, 9055, 2600, 7020, 7867, 601, 
