@@ -24,8 +24,9 @@ Lesson 2 Arrays
 - **OddOccurrencesInArray** 
 [Codility Assignment](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) / 
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/OddOccurencesInArray.java) / 
-[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/OddOccurencesInArrayTest.java)
-[Codility Report] (https://app.codility.com/demo/results/trainingPK5FE9-328/)
+[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/OddOccurencesInArrayTest.java) /
+[Codility Report](https://app.codility.com/demo/results/trainingPK5FE9-328/)
+
 - **CyclicRotation** 
 [Codility Assignment](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) / 
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/CyclicRotation.java) / 
