@@ -55,5 +55,19 @@ public class Util {
 	public int getOddRandomNumber(int min, int max) {
 		return getRandomNumber(min, max) * 2 + 1;
 	}
+	
+	public int[] reverseAB(int[] nums) {
+		int a = nums[0];
+		int b = nums[1];
+		System.out.println("input stav " +a+  " - " +b);
+		
+		a = a + b;		
+		b = a - b;
+		a = a - b;
+		
+		System.out.println("result " +a+  " - " +b);
+		
+		return new int[] {a, b};
+	}
 
 }
