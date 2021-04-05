@@ -21,26 +21,25 @@ Solutions and tests in Java for the lessons at https://codility.com/programmers/
    * O(n*n) the solution has a loop through n nested inside a loop through n
 ## Lessons
 Lesson 2 Arrays
-- **OddOccurrencesInArray** 
-[Codility Assignment](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) / 
+- **[OddOccurrencesInArray:](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)** 
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/OddOccurencesInArray.java) / 
 [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/OddOccurencesInArrayTest.java) /
 [Codility Report](https://app.codility.com/demo/results/trainingPK5FE9-328/)
-
-- **CyclicRotation** 
-[Codility Assignment](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) / 
+- **[CyclicRotation:](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)** 
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/arrays/CyclicRotation.java) / 
 [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/arrays/CyclicRotationTest.java) / 
 [Codility Report](https://app.codility.com/demo/results/training3GP53Q-2PN/)
 
 Lesson 3 Time Complexity
-- **TapeEquilibrium** 
-[Codility Assignment](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) /
+- **[TapeEquilibrium:](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)** 
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/TapeEquilibrium.java) /
 [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/TapeEquilibriumTest.java) /
 [Codility Report](https://app.codility.com/demo/results/trainingKQMPEP-Y5G/)
-- **FrogJmp** 
-[Codility Assignment](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) /
+- **[PermMissingElem:](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)** 
+[Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/PermMissingElem.java) /
+[Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/PermMissingElemTest.java) /
+[Codility Report](https://app.codility.com/demo/results/trainingC8MTUF-8AV)
+- **[FrogJmp:](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)** 
 [Solution](https://github.com/lienok/codility-java/blob/master/src/main/java/codilitysolutions/timecomplexity/FrogJmp.java) /
 [Tests](https://github.com/lienok/codility-java/blob/master/src/test/java/codilitysolutions/timecomplexity/FrogJmpTest.java) /
 [Codility Report](https://app.codility.com/demo/results/trainingM8A4BM-WQW/)
