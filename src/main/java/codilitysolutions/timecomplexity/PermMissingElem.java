@@ -25,3 +25,4 @@ public class PermMissingElem {
         return sum;
     }
 }
+//100% https://app.codility.com/demo/results/trainingC8MTUF-8AV

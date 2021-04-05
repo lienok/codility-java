@@ -38,4 +38,3 @@ public class PermMissingElemTest {
 	}
 
 }
-//100% https://app.codility.com/demo/results/trainingC8MTUF-8AV
